@@ -1,2 +1,2 @@
-# adventofcode
-My answers to [Advent of Code](http://adventofcode.com/).
+
+My answers to [Advent of Code](http://adventofcode.com/). :)
